@@ -1,5 +1,5 @@
 Requirement ID: REQ-101
 Title: User Login
 Description: The system shall allow authorized users to log in.
-Priority: High
+Priority: Critical
 Status: Draft
